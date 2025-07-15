@@ -34,6 +34,6 @@
 ![](./img/UseCase.jpg)
 
 ## ER-диаграмма
-![](./img/ER.jpg)
+![](./img/ER.png)
 
 
